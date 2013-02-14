@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-NjpAprilCampaign::Application.config.secret_token = '8be180fa0070c9a1fb95b723e2398ab825bafb2fb6368966cfb68d96fca0c0cb14039a150a0702973b5446d3e0dd2caebb5fb1b01a94ca53fbe69a2e1b206ad1'
+NjpAprilCampaign::Application.config.secret_token = 'aaa04f8293c3f8ae776f5b7108efc6badaa32c4d1e8bd2c59e8ef2cffbf988e4125f9318e5602f628e7dd04074b9807935e2977d2c346c9cb4d2174317bdb518'
